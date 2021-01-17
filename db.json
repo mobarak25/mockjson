@@ -1,7 +1,28 @@
 {
+    "title":"this is title"
     "products": [
         {
-            "id": 10,
+            "id": 1,
+            "title": "Nikon COOLPIX B500 Digital Camera (Black)",
+            "category": "Electronics",
+            "price": "TK 5000",
+            "image": "product-8.jpg",
+            "status": "Used",
+            "type": "Auction",
+            "qty": 2
+        },
+        {
+            "id": 2,
+            "title": "Nikon COOLPIX B500 Digital Camera (Black)",
+            "category": "Electronics",
+            "price": "TK 5000",
+            "image": "product-8.jpg",
+            "status": "Used",
+            "type": "Auction",
+            "qty": 2
+        },
+        {
+            "id": 3,
             "title": "Nikon COOLPIX B500 Digital Camera (Black)",
             "category": "Electronics",
             "price": "TK 5000",
